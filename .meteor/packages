@@ -5,3 +5,4 @@ meteor
 react-meteor-data
 accounts-password
 std:accounts-ui
+static-html

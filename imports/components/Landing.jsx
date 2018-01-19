@@ -28,12 +28,12 @@ export default class Landing extends Component {
         <h2>join us</h2>
 
         <p>
-          join blockchain lab den haag: every friday from 10 -
+          every friday from 10 -
           be welcome!
         </p>
 
         <a href="https://www.meetup.com/Ethereum-Cowork-NL/">Meetup</a>
-        |
+        &nbsp;|&nbsp;
         <a href="https://github.com/bartwr/bldh-site">GitHub</a>
 
       </div>
@@ -43,5 +43,7 @@ export default class Landing extends Component {
 
 var s = {
   base: {
+    // backgroundColor: 'yellow',
+    // padding: '15rem 0 12rem 0'
   },
 }
