@@ -28,8 +28,8 @@ export default class Landing extends Component {
         <h2>join us</h2>
 
         <p>
-          join blockchain lab den haag: every friday from 10 in
-          the morning
+          join blockchain lab den haag: every friday from 10 -
+          be welcome!
         </p>
 
         <a href="https://www.meetup.com/Ethereum-Cowork-NL/">Meetup</a>
