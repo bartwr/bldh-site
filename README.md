@@ -4,11 +4,11 @@
 
 ## Demo
 
-- [website](https://bldh.nl)
+- [Demo website](https://bldh.herokuapp.com/)
 
 ## Deployment tools
 
 1. [Heroku](http://herokuapp.com/)
 2. [MLab](https://mlab.com/)
 
-^ [screenshots that you may follow](https://imgur.com/a/dlssh)
+[deployment tutorial](https://imgur.com/a/dlssh)
