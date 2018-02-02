@@ -13,7 +13,7 @@ export default class Landing extends Component {
 
         <p>
           an ecosystem where early-tech adopters, developers,
-          industry experts and blockchain ethusiasts <em>connect</em>
+          industry experts and blockchain enthusiasts <em>connect</em>
         </p>
 
         <p>
@@ -33,6 +33,8 @@ export default class Landing extends Component {
         </p>
 
         <a href="https://www.meetup.com/Ethereum-Cowork-NL/">Meetup</a>
+        &nbsp;|&nbsp;
+        <a href="https://twitter.com/blockbar070">Twitter</a>
         &nbsp;|&nbsp;
         <a href="https://github.com/bartwr/bldh-site">GitHub</a>
         &nbsp;|&nbsp;
