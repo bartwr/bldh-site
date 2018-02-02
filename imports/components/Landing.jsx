@@ -28,13 +28,15 @@ export default class Landing extends Component {
         <h2>join us</h2>
 
         <p>
-          every friday from 10 -
+          every friday from 10am -
           be welcome!
         </p>
 
         <a href="https://www.meetup.com/Ethereum-Cowork-NL/">Meetup</a>
         &nbsp;|&nbsp;
         <a href="https://github.com/bartwr/bldh-site">GitHub</a>
+        &nbsp;|&nbsp;
+        <a href="https://join.slack.com/t/bitsandblocks/shared_invite/enQtMzA1ODczNTk4NjkzLTZiYTVkNjdiNzljZjQ4Mjk4YzM2ZDc5MDEzMDE1ZDBlNDMyMTg2ZmJiYTkyNjY5NDQ2MmE3ZTIyMDg5OWQxMTM">Slack</a>
 
       </div>
     );
